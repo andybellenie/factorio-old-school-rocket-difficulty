@@ -1,0 +1,12 @@
+{
+  "name": "oldschool-rockets",
+  "version": "1.0.0",
+  "title": "Old School Rocket Difficulty",
+  "author": "Andrew Bellenie",
+  "contact": "",
+  "homepage": "",
+  "source": "https://github.com/andybellenie/factorio-old-school-rocket-difficulty",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0", "! space-age"],
+  "description": "Restores pre-2.0 rocket part requirements by directly adding advanced and electronic circuits that were removed when rocket control units were eliminated. Includes marathon mode option."
+}
