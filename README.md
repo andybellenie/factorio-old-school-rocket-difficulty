@@ -1,6 +1,15 @@
-# factorio-old-school-rocket-difficulty
-A mod for Factorio that restores 1.x rocket difficulty to 2.0 base game.
+# Old School Rocket Difficulty
 
-Directly adds the missing circuits used for creating Rocket Control Units to the rocket but bypasses speed module creation. 
+2.0 drastically reduced the resource requirements to launch a rocket in the base game, even without Space Age enabled. 
 
-Also adds a little steel to compensate for the simpler production chain.
+This removed a lot of the challenge of the end-game.
+
+This mod restores the essence of that challenge without any major changes by directly adding the removed resources
+to the recipie for rocket parts, specifically:
+
+- 50 advanced circuits
+- 50 electronic circuits
+
+These used to come from the speed module 1 required to build the now deprecated Rocket Control Unit and were a major resource sink.
+
+With this mod, resource requirements to build a rocket are now identical to the game prior to 2.0 
