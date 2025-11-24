@@ -7,14 +7,13 @@ This mod restores that challenge by adding the removed ingredients directly to t
 - 50 advanced circuits
 - 50 electronic circuits
 
-These circuits used to come from the Speed Module 1 required to build the now-deprecated Rocket Control Unit, and were a major resource sink.
+These circuits used to come from the Speed Modules required to build 10 now-deprecated Rocket Control Units per rocket part, and were a major resource sink.
 
 ## Settings
 
-- **Vanilla** - No changes
 - **Pre-2.0** (default) - Restores original rocket part requirements
 - **Pre-2.0 Marathon** - 4x multiplier on all ingredients for an extra challenge
 
 ## Compatibility
 
-Compatible with Space Age, but automatically disabled when Space Age is active (since rockets work differently in that expansion).
+Compatible with Space Age, but automatically disabled when Space Age is active (as rockets work differently in the expansion).
