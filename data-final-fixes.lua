@@ -1,4 +1,9 @@
-local difficulty = settings.startup["harder-rockets-difficulty"].value
+-- Skip if Space Age is active
+if mods["space-age"] then
+    return
+end
+
+local difficulty = settings.startup["oldschool-rockets-difficulty"].value
 
 if difficulty ~= "vanilla" then
     local rocket_part_recipe = data.raw.recipe["rocket-part"]

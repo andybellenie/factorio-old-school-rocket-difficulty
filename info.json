@@ -7,6 +7,6 @@
   "homepage": "",
   "source": "https://github.com/andybellenie/factorio-old-school-rocket-difficulty",
   "factorio_version": "2.0",
-  "dependencies": ["base >= 2.0", "! space-age"],
-  "description": "Restores pre-2.0 rocket part requirements by directly adding advanced and electronic circuits that were removed when rocket control units were eliminated. Includes marathon mode option."
+  "dependencies": ["base >= 2.0"],
+  "description": "Restores pre-2.0 rocket part resource requirements by adding back the circuits removed with rocket control units."
 }

@@ -1,15 +1,20 @@
 # Old School Rocket Difficulty
 
-2.0 drastically reduced the resource requirements to launch a rocket in the base game, even without Space Age enabled. 
+Factorio 2.0 drastically reduced the resource requirements to launch a rocket in the base game, removing much of the end-game challenge.
 
-This removed a lot of the challenge of the end-game.
-
-This mod restores the essence of that challenge without any complex changes by directly adding the removed ingredients
-to the recipe for rocket parts, specifically:
+This mod restores that challenge by adding the removed ingredients directly to the rocket part recipe:
 
 - 50 advanced circuits
 - 50 electronic circuits
 
-These used to come from the speed module 1 required to build the now deprecated Rocket Control Unit and were a major resource sink.
+These circuits used to come from the Speed Module 1 required to build the now-deprecated Rocket Control Unit, and were a major resource sink.
 
-With this mod, resource requirements to build a rocket are now identical to the game prior to 2.0.
+## Settings
+
+- **Vanilla** - No changes
+- **Pre-2.0** (default) - Restores original rocket part requirements
+- **Pre-2.0 Marathon** - 4x multiplier on all ingredients for an extra challenge
+
+## Compatibility
+
+Compatible with Space Age, but automatically disabled when Space Age is active (since rockets work differently in that expansion).
